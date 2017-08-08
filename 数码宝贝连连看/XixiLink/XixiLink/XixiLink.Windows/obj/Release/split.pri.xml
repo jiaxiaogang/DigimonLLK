@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="43406.17879E821CB40" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://43406.17879E821CB40/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://43406.17879E821CB40/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XixiLink.Windows.xr.xml" uri="ms-resource://43406.17879E821CB40/Files/XixiLink.Windows.xr.xml">
+				<Candidate type="Path">
+					<Value>XixiLink.Windows.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="Logo.png" uri="ms-resource://43406.17879E821CB40/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://43406.17879E821CB40/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://43406.17879E821CB40/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://43406.17879E821CB40/Files/Assets/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square310x310Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://43406.17879E821CB40/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://43406.17879E821CB40/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Command">
+				<NamedResource name="LinkImage.xbf" uri="ms-resource://43406.17879E821CB40/Files/Command/LinkImage.xbf">
+					<Candidate type="Path">
+						<Value>Command\LinkImage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Images">
+				<NamedResource name="1.jpg" uri="ms-resource://43406.17879E821CB40/Files/Images/1.jpg">
+					<Candidate type="Path">
+						<Value>Images\1.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="1.png" uri="ms-resource://43406.17879E821CB40/Files/Images/1.png">
+					<Candidate type="Path">
+						<Value>Images\1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="10.jpg" uri="ms-resource://43406.17879E821CB40/Files/Images/10.jpg">
+					<Candidate type="Path">
+						<Value>Images\10.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="10.png" uri="ms-resource://43406.17879E821CB40/Files/Images/10.png">
+					<Candidate type="Path">
+						<Value>Images\10.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="11.png" uri="ms-resource://43406.17879E821CB40/Files/Images/11.png">
+					<Candidate type="Path">
+						<Value>Images\11.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="12.png" uri="ms-resource://43406.17879E821CB40/Files/Images/12.png">
+					<Candidate type="Path">
+						<Value>Images\12.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="13.png" uri="ms-resource://43406.17879E821CB40/Files/Images/13.png">
+					<Candidate type="Path">
+						<Value>Images\13.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="14.png" uri="ms-resource://43406.17879E821CB40/Files/Images/14.png">
+					<Candidate type="Path">
+						<Value>Images\14.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="15.png" uri="ms-resource://43406.17879E821CB40/Files/Images/15.png">
+					<Candidate type="Path">
+						<Value>Images\15.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="16.png" uri="ms-resource://43406.17879E821CB40/Files/Images/16.png">
+					<Candidate type="Path">
+						<Value>Images\16.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="17.png" uri="ms-resource://43406.17879E821CB40/Files/Images/17.png">
+					<Candidate type="Path">
+						<Value>Images\17.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="18.png" uri="ms-resource://43406.17879E821CB40/Files/Images/18.png">
+					<Candidate type="Path">
+						<Value>Images\18.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="19.png" uri="ms-resource://43406.17879E821CB40/Files/Images/19.png">
+					<Candidate type="Path">
+						<Value>Images\19.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="2.jpg" uri="ms-resource://43406.17879E821CB40/Files/Images/2.jpg">
+					<Candidate type="Path">
+						<Value>Images\2.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="2.png" uri="ms-resource://43406.17879E821CB40/Files/Images/2.png">
+					<Candidate type="Path">
+						<Value>Images\2.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="20.png" uri="ms-resource://43406.17879E821CB40/Files/Images/20.png">
+					<Candidate type="Path">
+						<Value>Images\20.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="21.png" uri="ms-resource://43406.17879E821CB40/Files/Images/21.png">
+					<Candidate type="Path">
+						<Value>Images\21.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="22.png" uri="ms-resource://43406.17879E821CB40/Files/Images/22.png">
+					<Candidate type="Path">
+						<Value>Images\22.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="23.png" uri="ms-resource://43406.17879E821CB40/Files/Images/23.png">
+					<Candidate type="Path">
+						<Value>Images\23.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="24.png" uri="ms-resource://43406.17879E821CB40/Files/Images/24.png">
+					<Candidate type="Path">
+						<Value>Images\24.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="25.png" uri="ms-resource://43406.17879E821CB40/Files/Images/25.png">
+					<Candidate type="Path">
+						<Value>Images\25.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="26.png" uri="ms-resource://43406.17879E821CB40/Files/Images/26.png">
+					<Candidate type="Path">
+						<Value>Images\26.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="27.png" uri="ms-resource://43406.17879E821CB40/Files/Images/27.png">
+					<Candidate type="Path">
+						<Value>Images\27.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="28.png" uri="ms-resource://43406.17879E821CB40/Files/Images/28.png">
+					<Candidate type="Path">
+						<Value>Images\28.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="3.jpg" uri="ms-resource://43406.17879E821CB40/Files/Images/3.jpg">
+					<Candidate type="Path">
+						<Value>Images\3.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="3.png" uri="ms-resource://43406.17879E821CB40/Files/Images/3.png">
+					<Candidate type="Path">
+						<Value>Images\3.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="4.jpg" uri="ms-resource://43406.17879E821CB40/Files/Images/4.jpg">
+					<Candidate type="Path">
+						<Value>Images\4.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="4.png" uri="ms-resource://43406.17879E821CB40/Files/Images/4.png">
+					<Candidate type="Path">
+						<Value>Images\4.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="5.jpg" uri="ms-resource://43406.17879E821CB40/Files/Images/5.jpg">
+					<Candidate type="Path">
+						<Value>Images\5.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="5.png" uri="ms-resource://43406.17879E821CB40/Files/Images/5.png">
+					<Candidate type="Path">
+						<Value>Images\5.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="6.jpg" uri="ms-resource://43406.17879E821CB40/Files/Images/6.jpg">
+					<Candidate type="Path">
+						<Value>Images\6.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="6.png" uri="ms-resource://43406.17879E821CB40/Files/Images/6.png">
+					<Candidate type="Path">
+						<Value>Images\6.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="7.jpg" uri="ms-resource://43406.17879E821CB40/Files/Images/7.jpg">
+					<Candidate type="Path">
+						<Value>Images\7.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="7.png" uri="ms-resource://43406.17879E821CB40/Files/Images/7.png">
+					<Candidate type="Path">
+						<Value>Images\7.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="8.jpg" uri="ms-resource://43406.17879E821CB40/Files/Images/8.jpg">
+					<Candidate type="Path">
+						<Value>Images\8.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="8.png" uri="ms-resource://43406.17879E821CB40/Files/Images/8.png">
+					<Candidate type="Path">
+						<Value>Images\8.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="9.jpg" uri="ms-resource://43406.17879E821CB40/Files/Images/9.jpg">
+					<Candidate type="Path">
+						<Value>Images\9.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="9.png" uri="ms-resource://43406.17879E821CB40/Files/Images/9.png">
+					<Candidate type="Path">
+						<Value>Images\9.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Medias">
+				<NamedResource name="bo.mp3" uri="ms-resource://43406.17879E821CB40/Files/Medias/bo.mp3">
+					<Candidate type="Path">
+						<Value>Medias\bo.mp3</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

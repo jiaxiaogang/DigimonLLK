@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>c07834f3-3ab8-4244-ac24-69092176fb0c</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>XixiLink</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Command\BoolVisibiletyConverter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Command\ImgTypeLinkImageConverter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Command\LinkImage.xaml.cs">
+      <DependentUpon>LinkImage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)DataModel\LinkBlock.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataModel\LinkMap.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="$(MSBuildThisFileDirectory)Command\LinkImage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Images\1.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\10.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\10.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\11.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\12.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\13.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\14.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\15.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\16.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\17.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\18.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\19.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\2.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\2.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\20.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\21.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\22.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\23.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\24.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\25.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\26.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\27.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\28.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\3.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\3.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\4.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\4.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\5.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\5.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\6.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\6.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\7.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\7.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\8.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\8.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\9.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\9.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Medias\bo.mp3" />
+  </ItemGroup>
+</Project>

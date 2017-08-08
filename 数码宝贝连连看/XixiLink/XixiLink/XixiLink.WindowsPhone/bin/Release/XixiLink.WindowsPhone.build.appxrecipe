@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ESEA-PC64BIT</Machine>
+    <WindowsUser>xiaogang</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2640dc89-be3b-45ea-8dbd-3bbbc233085c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.WindowsPhone\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.WindowsPhone\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.WindowsPhone\bin\Release\XixiLink.WindowsPhone.exe">
+      <PackagePath>XixiLink.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Shared\Images\1.jpg">
+      <PackagePath>Images\1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Shared\Images\10.jpg">
+      <PackagePath>Images\10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Shared\Images\2.jpg">
+      <PackagePath>Images\2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Shared\Images\3.jpg">
+      <PackagePath>Images\3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Shared\Images\4.jpg">
+      <PackagePath>Images\4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Shared\Images\5.jpg">
+      <PackagePath>Images\5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Shared\Images\6.jpg">
+      <PackagePath>Images\6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Shared\Images\7.jpg">
+      <PackagePath>Images\7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Shared\Images\8.jpg">
+      <PackagePath>Images\8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Shared\Images\9.jpg">
+      <PackagePath>Images\9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Shared\Medias\bo.mp3">
+      <PackagePath>Medias\bo.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.WindowsPhone\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.WindowsPhone\bin\Release\Command\LinkImage.xbf">
+      <PackagePath>Command\LinkImage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.WindowsPhone\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.WindowsPhone\bin\Release\XixiLink.WindowsPhone.xr.xml">
+      <PackagePath>XixiLink.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.WindowsPhone\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

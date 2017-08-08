@@ -1,0 +1,3 @@
+MainPackage=C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\bin\Release\XixiLink.Windows_1.1.0.3_Bundle\XixiLink.Windows_1.1.0.3_AnyCPU.appx
+SymbolPackage=C:\Users\xiaogang\Desktop\XixiLink.Windows_1.1.0.3_Test\XixiLink.Windows_1.1.0.3_AnyCPU.appxsym
+ResourcePack=C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\bin\Release\XixiLink.Windows_1.1.0.3_Bundle\XixiLink.Windows_1.1.0.3_scale-180.appx

@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ESEA-PC64BIT</Machine>
+    <WindowsUser>xiaogang</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>43406.50060A5197EC5</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>B7C6159929538CACC695B4F30E5DAF378232A69F2D7137B268CB0FC00B56686B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>43406.50060A5197EC5_1.1.0.7_neutral__wxx81ydwj8wsm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>43406.50060A5197EC5_wxx81ydwj8wsm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>43406.50060A5197EC5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=B22C2B5E-2135-43E6-AA0D-9F02A7A4496F</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.7</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-15T02:46:40.355</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\bin\Debug\XixiLink.Windows.exe">
+      <PackagePath>XixiLink.Windows.exe</PackagePath>
+      <Modified>2014-05-15T03:05:45.601</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T01:21:03.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T01:21:42.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-13T11:08:19.895</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T01:18:51.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-09T11:31:39.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-01T01:24:17.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-09T11:42:55.925</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\1.png">
+      <PackagePath>Images\1.png</PackagePath>
+      <Modified>2014-05-13T09:45:00.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\10.png">
+      <PackagePath>Images\10.png</PackagePath>
+      <Modified>2014-05-13T10:25:48.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\11.png">
+      <PackagePath>Images\11.png</PackagePath>
+      <Modified>2014-05-13T10:25:54.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\12.png">
+      <PackagePath>Images\12.png</PackagePath>
+      <Modified>2014-05-13T10:27:15.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\13.png">
+      <PackagePath>Images\13.png</PackagePath>
+      <Modified>2014-05-13T10:28:07.088</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\14.png">
+      <PackagePath>Images\14.png</PackagePath>
+      <Modified>2014-05-13T10:28:37.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\15.png">
+      <PackagePath>Images\15.png</PackagePath>
+      <Modified>2014-05-13T10:29:06.322</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\16.png">
+      <PackagePath>Images\16.png</PackagePath>
+      <Modified>2014-05-13T10:29:38.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\17.png">
+      <PackagePath>Images\17.png</PackagePath>
+      <Modified>2014-05-13T10:30:10.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\18.png">
+      <PackagePath>Images\18.png</PackagePath>
+      <Modified>2014-05-13T10:30:39.807</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\19.png">
+      <PackagePath>Images\19.png</PackagePath>
+      <Modified>2014-05-13T10:31:55.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\2.png">
+      <PackagePath>Images\2.png</PackagePath>
+      <Modified>2014-05-13T09:44:53.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\20.png">
+      <PackagePath>Images\20.png</PackagePath>
+      <Modified>2014-05-13T10:32:37.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\21.png">
+      <PackagePath>Images\21.png</PackagePath>
+      <Modified>2014-05-13T10:33:35.541</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\22.png">
+      <PackagePath>Images\22.png</PackagePath>
+      <Modified>2014-05-13T10:34:11.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\23.png">
+      <PackagePath>Images\23.png</PackagePath>
+      <Modified>2014-05-13T10:34:58.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\24.png">
+      <PackagePath>Images\24.png</PackagePath>
+      <Modified>2014-05-13T10:35:48.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\25.png">
+      <PackagePath>Images\25.png</PackagePath>
+      <Modified>2014-05-13T10:36:28.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\26.png">
+      <PackagePath>Images\26.png</PackagePath>
+      <Modified>2014-05-13T10:39:34.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\27.png">
+      <PackagePath>Images\27.png</PackagePath>
+      <Modified>2014-05-13T10:40:13.275</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\28.png">
+      <PackagePath>Images\28.png</PackagePath>
+      <Modified>2014-05-13T10:40:31.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\3.png">
+      <PackagePath>Images\3.png</PackagePath>
+      <Modified>2014-05-13T10:17:07.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\4.png">
+      <PackagePath>Images\4.png</PackagePath>
+      <Modified>2014-05-13T10:18:31.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\5.png">
+      <PackagePath>Images\5.png</PackagePath>
+      <Modified>2014-05-13T10:19:30.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\6.png">
+      <PackagePath>Images\6.png</PackagePath>
+      <Modified>2014-05-13T10:20:33.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\7.png">
+      <PackagePath>Images\7.png</PackagePath>
+      <Modified>2014-05-13T10:21:19.401</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\8.png">
+      <PackagePath>Images\8.png</PackagePath>
+      <Modified>2014-05-13T10:23:24.385</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\9.png">
+      <PackagePath>Images\9.png</PackagePath>
+      <Modified>2014-05-13T10:24:10.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\1.jpg">
+      <PackagePath>Images\1.jpg</PackagePath>
+      <Modified>2014-05-09T09:18:12.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\10.jpg">
+      <PackagePath>Images\10.jpg</PackagePath>
+      <Modified>2014-05-07T04:32:40.979</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\2.jpg">
+      <PackagePath>Images\2.jpg</PackagePath>
+      <Modified>2014-05-09T09:18:44.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\3.jpg">
+      <PackagePath>Images\3.jpg</PackagePath>
+      <Modified>2014-05-09T09:19:03.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\4.jpg">
+      <PackagePath>Images\4.jpg</PackagePath>
+      <Modified>2014-05-09T09:19:30.837</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\5.jpg">
+      <PackagePath>Images\5.jpg</PackagePath>
+      <Modified>2014-05-09T09:19:43.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\6.jpg">
+      <PackagePath>Images\6.jpg</PackagePath>
+      <Modified>2014-05-09T09:20:26.909</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\7.jpg">
+      <PackagePath>Images\7.jpg</PackagePath>
+      <Modified>2014-05-07T04:32:31.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\8.jpg">
+      <PackagePath>Images\8.jpg</PackagePath>
+      <Modified>2014-05-07T04:32:20.046</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Images\9.jpg">
+      <PackagePath>Images\9.jpg</PackagePath>
+      <Modified>2014-05-07T04:32:31.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Shared\Medias\bo.mp3">
+      <PackagePath>Medias\bo.mp3</PackagePath>
+      <Modified>2013-06-13T10:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-05-15T02:46:37.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\bin\Debug\Command\LinkImage.xbf">
+      <PackagePath>Command\LinkImage.xbf</PackagePath>
+      <Modified>2014-05-15T02:58:09.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-05-15T02:59:30.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\bin\Debug\XixiLink.Windows.xr.xml">
+      <PackagePath>XixiLink.Windows.xr.xml</PackagePath>
+      <Modified>2014-05-15T02:58:09.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-05-15T02:46:39.948</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

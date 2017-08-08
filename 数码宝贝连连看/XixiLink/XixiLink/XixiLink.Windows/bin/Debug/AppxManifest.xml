@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:build="http://schemas.microsoft.com/developer/appx/2012/build" IgnorableNamespaces="build">
+  <!--
+    此包清单文件由生成过程生成。
+
+    如果重新生成此文件，将丢失对其所做的更改。若要更正此文件中的错误，请编辑源 .appxmanifest 文件。
+
+    有关程序包清单文件的详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkID=241727
+  -->
+  <Identity Name="43406.17879E821CB40" Publisher="CN=B22C2B5E-2135-43E6-AA0D-9F02A7A4496F" Version="1.1.0.3" ProcessorArchitecture="neutral" />
+  <Properties>
+    <DisplayName>数码宝贝连连看</DisplayName>
+    <PublisherDisplayName>贾晓刚</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="ZH-CN" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="XixiLink.Windows.exe" EntryPoint="XixiLink.Windows.App">
+      <m2:VisualElements DisplayName="数码宝贝连连看" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="XixiLink.Windows" ForegroundText="light" BackgroundColor="green">
+        <m2:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" DefaultSize="wide310x150Logo" Square310x310Logo="Assets\Square310x310Logo.png" ShortName="浠浠连连看-识颜色">
+          <m2:ShowNameOnTiles>
+            <m2:ShowOn Tile="square150x150Logo" />
+            <m2:ShowOn Tile="wide310x150Logo" />
+            <m2:ShowOn Tile="square310x310Logo" />
+          </m2:ShowNameOnTiles>
+        </m2:DefaultTile>
+        <m2:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="green" />
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+  <build:Metadata>
+    <build:Item Name="SharedGUID" Value="c07834f3-3ab8-4244-ac24-69092176fb0c" />
+    <build:Item Name="CodeSharingProject" Value="248F659F-DAC5-46E8-AC09-60EC9FC95053" />
+    <build:Item Name="TargetFrameworkMoniker" Value=".NETCore,Version=v4.5.1" />
+    <build:Item Name="VisualStudio" Version="12.0" />
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Ultimate 2013" />
+    <build:Item Name="OperatingSystem" Version="6.3.9600.16384 (winblue_rtm.130821-1623)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="12.0.30324.0" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="12.0.30324.0" />
+    <build:Item Name="MakePri.exe" Version="6.3.9600.17029 (winblue_gdr.140219-1702)" />
+  </build:Metadata>
+</Package>

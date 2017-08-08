@@ -1,0 +1,74 @@
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\bin\Release\App.xbf
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\bin\Release\Command\LinkImage.xbf
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\bin\Release\MainPage.xbf
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\bin\Release\XixiLink.Windows.xr.xml
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\bin\Release\XixiLink.Windows.exe
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\bin\Release\XixiLink.Windows.pdb
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\bin\Release\resources.pri
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\bin\Release\AppxManifest.xml
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\bin\Release\XixiLink.Windows.build.appxrecipe
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\App.g.i.cs
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\App.g.cs
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\MainPage.g.i.cs
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\MainPage.g.cs
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\Command\LinkImage.g.i.cs
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\Command\LinkImage.g.cs
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\XamlTypeInfo.g.cs
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\App.xaml
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\MainPage.xaml
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\Command\LinkImage.xaml
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\App.xbf
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\MainPage.xbf
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\Command\LinkImage.xbf
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\XamlSaveStateFile.xml
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\XixiLink.Windows.exe
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\XixiLink.Windows.pdb
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\priconfig.xml
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\priconfig.xml.intermediate
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\layout.resfiles
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\layout.resfiles.intermediate
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\resources.resfiles
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\resources.resfiles.intermediate
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\pri.resfiles
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\pri.resfiles.intermediate
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\qualifiers.txt
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\qualifiers.txt.intermediate
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\xiaogang\documents\visual studio 2013\Projects\XixiLink\XixiLink\XixiLink.Windows\obj\Release\ProjectArchitectures.txt
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\bin\Release\App.xbf
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\bin\Release\Command\LinkImage.xbf
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\bin\Release\MainPage.xbf
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\bin\Release\XixiLink.Windows.xr.xml
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\bin\Release\XixiLink.Windows.exe
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\bin\Release\XixiLink.Windows.pdb
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\bin\Release\resources.pri
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\bin\Release\AppxManifest.xml
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\bin\Release\XixiLink.Windows.build.appxrecipe
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\App.g.i.cs
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\App.g.cs
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\MainPage.g.i.cs
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\MainPage.g.cs
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\Command\LinkImage.g.i.cs
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\Command\LinkImage.g.cs
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\XamlTypeInfo.g.cs
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\App.xaml
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\App.xbf
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\XamlSaveStateFile.xml
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\MainPage.xaml
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\Command\LinkImage.xaml
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\MainPage.xbf
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\Command\LinkImage.xbf
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\XixiLink.Windows.exe
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\XixiLink.Windows.pdb
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\priconfig.xml
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\priconfig.xml.intermediate
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\layout.resfiles
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\layout.resfiles.intermediate
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\resources.resfiles
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\resources.resfiles.intermediate
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\pri.resfiles
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\pri.resfiles.intermediate
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\qualifiers.txt
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\qualifiers.txt.intermediate
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\xiaogang\Desktop\XixiLink\XixiLink\XixiLink.Windows\obj\Release\ProjectArchitectures.txt
